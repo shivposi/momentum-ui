@@ -1,0 +1,3605 @@
+{
+  "size": 34018,
+  "gzipSize": 2621,
+  "humanizedSize": "33KB",
+  "humanizedGzipSize": "3KB",
+  "rules": {
+    "total": 117,
+    "size": {
+      "graph": [
+        2,
+        3,
+        3,
+        16,
+        12,
+        7,
+        10,
+        10,
+        3,
+        6,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        4,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        4,
+        1,
+        4,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        4,
+        1,
+        2,
+        1,
+        4,
+        1,
+        2,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        7,
+        1,
+        4,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        7,
+        1,
+        6,
+        7,
+        3,
+        1,
+        1
+      ],
+      "max": 16,
+      "average": 2.230769230769231
+    },
+    "selectorByRuleSizes": [
+      {
+        "selector": ".md-list-item",
+        "declarations": 16
+      },
+      {
+        "selector": ".md-list-item>.md-list-item__center",
+        "declarations": 12
+      },
+      {
+        "selector": ".md-list-item>.md-list-item__right",
+        "declarations": 10
+      },
+      {
+        "selector": ".md-list-item>.md-list-item__left",
+        "declarations": 10
+      },
+      {
+        "selector": ".md-list--horizontal .md-list-item",
+        "declarations": 7
+      },
+      {
+        "selector": ".md-list--vertical",
+        "declarations": 7
+      },
+      {
+        "selector": ".md-list-item-header",
+        "declarations": 7
+      },
+      {
+        "selector": ".md-list-item>.md-list-item__center-align",
+        "declarations": 7
+      },
+      {
+        "selector": ".md-list--horizontal",
+        "declarations": 6
+      },
+      {
+        "selector": ".md-list-item .md-list-item__subheader",
+        "declarations": 6
+      },
+      {
+        "selector": ".md-list-item-header>[class$=\"__left\"]>.md-list-item__avatar",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-list-item--small>[class$=\"__left\"]>.md-list-item__avatar,.md-list-item--36>[class$=\"__left\"]>.md-list-item__avatar",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-list-item--xlarge>[class$=\"__left\"]>.md-list-item__avatar,.md-list-item--60>[class$=\"__left\"]>.md-list-item__avatar",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-list-item--large>[class$=\"__left\"]>.md-list-item__avatar,.md-list-item--52>[class$=\"__left\"]>.md-list-item__avatar",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-list-item--large,.md-list-item--52",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-list-item>[class$=\"__left\"]>.md-list-item__avatar",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-list--wrap",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-list-item.md-list-item--multiselect md-icon",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-list-item .md-list-item__header",
+        "declarations": 3
+      },
+      {
+        "selector": ":host(md-list-item:focus)",
+        "declarations": 3
+      },
+      {
+        "selector": ":host(md-list-item)",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__right,.md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space-light:hover:not(:active) .md-list-item__right,.md-list-item-header--space-light:hover:not(.active) .md-list-item__right,.md-list-item-header--space-light:focus:not(.disabled) .md-list-item__right,.md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space-light:focus:not(:active) .md-list-item__right,.md-list-item-header--space-light:focus:not(.active) .md-list-item__right,.md-list-item-header--space-light.focus:not(.disabled) .md-list-item__right,.md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space-light.focus:not(:active) .md-list-item__right,.md-list-item-header--space-light.focus:not(.active) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__left,.md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space-light:hover:not(:active) .md-list-item__left,.md-list-item-header--space-light:hover:not(.active) .md-list-item__left,.md-list-item-header--space-light:focus:not(.disabled) .md-list-item__left,.md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space-light:focus:not(:active) .md-list-item__left,.md-list-item-header--space-light:focus:not(.active) .md-list-item__left,.md-list-item-header--space-light.focus:not(.disabled) .md-list-item__left,.md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space-light.focus:not(:active) .md-list-item__left,.md-list-item-header--space-light.focus:not(.active) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space-light .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space-light .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space-light",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__right,.md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space:hover:not(:active) .md-list-item__right,.md-list-item-header--space:hover:not(.active) .md-list-item__right,.md-list-item-header--space:focus:not(.disabled) .md-list-item__right,.md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space:focus:not(:active) .md-list-item__right,.md-list-item-header--space:focus:not(.active) .md-list-item__right,.md-list-item-header--space.focus:not(.disabled) .md-list-item__right,.md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header--space.focus:not(:active) .md-list-item__right,.md-list-item-header--space.focus:not(.active) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__left,.md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space:hover:not(:active) .md-list-item__left,.md-list-item-header--space:hover:not(.active) .md-list-item__left,.md-list-item-header--space:focus:not(.disabled) .md-list-item__left,.md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space:focus:not(:active) .md-list-item__left,.md-list-item-header--space:focus:not(.active) .md-list-item__left,.md-list-item-header--space.focus:not(.disabled) .md-list-item__left,.md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header--space.focus:not(:active) .md-list-item__left,.md-list-item-header--space.focus:not(.active) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header--space",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__right,.md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header:hover:not(:active) .md-list-item__right,.md-list-item-header:hover:not(.active) .md-list-item__right,.md-list-item-header:focus:not(.disabled) .md-list-item__right,.md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header:focus:not(:active) .md-list-item__right,.md-list-item-header:focus:not(.active) .md-list-item__right,.md-list-item-header.focus:not(.disabled) .md-list-item__right,.md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item-header.focus:not(:active) .md-list-item__right,.md-list-item-header.focus:not(.active) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__left,.md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header:hover:not(:active) .md-list-item__left,.md-list-item-header:hover:not(.active) .md-list-item__left,.md-list-item-header:focus:not(.disabled) .md-list-item__left,.md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header:focus:not(:active) .md-list-item__left,.md-list-item-header:focus:not(.active) .md-list-item__left,.md-list-item-header.focus:not(.disabled) .md-list-item__left,.md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item-header.focus:not(:active) .md-list-item__left,.md-list-item-header.focus:not(.active) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item-header .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item.md-list-item--auto",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--small,.md-list-item--36",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--xlarge,.md-list-item--60",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__right,.md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--large:hover:not(:active) .md-list-item__right,.md-list-item--large:hover:not(.active) .md-list-item__right,.md-list-item--large:focus:not(.disabled) .md-list-item__right,.md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--large:focus:not(:active) .md-list-item__right,.md-list-item--large:focus:not(.active) .md-list-item__right,.md-list-item--large.focus:not(.disabled) .md-list-item__right,.md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--large.focus:not(:active) .md-list-item__right,.md-list-item--large.focus:not(.active) .md-list-item__right,.md-list-item--52:hover:not(.disabled) .md-list-item__right,.md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--52:hover:not(:active) .md-list-item__right,.md-list-item--52:hover:not(.active) .md-list-item__right,.md-list-item--52:focus:not(.disabled) .md-list-item__right,.md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--52:focus:not(:active) .md-list-item__right,.md-list-item--52:focus:not(.active) .md-list-item__right,.md-list-item--52.focus:not(.disabled) .md-list-item__right,.md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item--52.focus:not(:active) .md-list-item__right,.md-list-item--52.focus:not(.active) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__left,.md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--large:hover:not(:active) .md-list-item__left,.md-list-item--large:hover:not(.active) .md-list-item__left,.md-list-item--large:focus:not(.disabled) .md-list-item__left,.md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--large:focus:not(:active) .md-list-item__left,.md-list-item--large:focus:not(.active) .md-list-item__left,.md-list-item--large.focus:not(.disabled) .md-list-item__left,.md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--large.focus:not(:active) .md-list-item__left,.md-list-item--large.focus:not(.active) .md-list-item__left,.md-list-item--52:hover:not(.disabled) .md-list-item__left,.md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--52:hover:not(:active) .md-list-item__left,.md-list-item--52:hover:not(.active) .md-list-item__left,.md-list-item--52:focus:not(.disabled) .md-list-item__left,.md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--52:focus:not(:active) .md-list-item__left,.md-list-item--52:focus:not(.active) .md-list-item__left,.md-list-item--52.focus:not(.disabled) .md-list-item__left,.md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item--52.focus:not(:active) .md-list-item__left,.md-list-item--52.focus:not(.active) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--large .md-list-item__right,.md-list-item--52 .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item--large .md-list-item__left,.md-list-item--52 .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__right,.md-list-item.active:not(.md-list-item--read-only) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__left,.md-list-item.active:not(.md-list-item--read-only) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item:hover:not(.disabled) .md-list-item__right,.md-list-item:hover:not(.md-list-item--read-only) .md-list-item__right,.md-list-item:hover:not(:active) .md-list-item__right,.md-list-item:hover:not(.active) .md-list-item__right,.md-list-item:focus:not(.disabled) .md-list-item__right,.md-list-item:focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item:focus:not(:active) .md-list-item__right,.md-list-item:focus:not(.active) .md-list-item__right,.md-list-item.focus:not(.disabled) .md-list-item__right,.md-list-item.focus:not(.md-list-item--read-only) .md-list-item__right,.md-list-item.focus:not(:active) .md-list-item__right,.md-list-item.focus:not(.active) .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item:hover:not(.disabled) .md-list-item__left,.md-list-item:hover:not(.md-list-item--read-only) .md-list-item__left,.md-list-item:hover:not(:active) .md-list-item__left,.md-list-item:hover:not(.active) .md-list-item__left,.md-list-item:focus:not(.disabled) .md-list-item__left,.md-list-item:focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item:focus:not(:active) .md-list-item__left,.md-list-item:focus:not(.active) .md-list-item__left,.md-list-item.focus:not(.disabled) .md-list-item__left,.md-list-item.focus:not(.md-list-item--read-only) .md-list-item__left,.md-list-item.focus:not(:active) .md-list-item__left,.md-list-item.focus:not(.active) .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item .md-list-item__right",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item .md-list-item__left",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list--horizontal>.md-list-item.md-list-item--separator",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-list-item.md-list-item--separator",
+        "declarations": 2
+      },
+      {
+        "selector": ":host(:focus)",
+        "declarations": 2
+      },
+      {
+        "selector": ":host",
+        "declarations": 1
+      },
+      {
+        "selector": ".text__highlight",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list--vertical .md-list-item",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space-light:disabled,.md-list-item-header--space-light.disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__subheader,.md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space-light:hover:not(:active) .md-list-item__subheader,.md-list-item-header--space-light:hover:not(.active) .md-list-item__subheader,.md-list-item-header--space-light:focus:not(.disabled) .md-list-item__subheader,.md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space-light:focus:not(:active) .md-list-item__subheader,.md-list-item-header--space-light:focus:not(.active) .md-list-item__subheader,.md-list-item-header--space-light.focus:not(.disabled) .md-list-item__subheader,.md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space-light.focus:not(:active) .md-list-item__subheader,.md-list-item-header--space-light.focus:not(.active) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__header,.md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space-light:hover:not(:active) .md-list-item__header,.md-list-item-header--space-light:hover:not(.active) .md-list-item__header,.md-list-item-header--space-light:focus:not(.disabled) .md-list-item__header,.md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space-light:focus:not(:active) .md-list-item__header,.md-list-item-header--space-light:focus:not(.active) .md-list-item__header,.md-list-item-header--space-light.focus:not(.disabled) .md-list-item__header,.md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space-light.focus:not(:active) .md-list-item__header,.md-list-item-header--space-light.focus:not(.active) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space-light .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space-light .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space:disabled,.md-list-item-header--space.disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__subheader,.md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space:hover:not(:active) .md-list-item__subheader,.md-list-item-header--space:hover:not(.active) .md-list-item__subheader,.md-list-item-header--space:focus:not(.disabled) .md-list-item__subheader,.md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space:focus:not(:active) .md-list-item__subheader,.md-list-item-header--space:focus:not(.active) .md-list-item__subheader,.md-list-item-header--space.focus:not(.disabled) .md-list-item__subheader,.md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header--space.focus:not(:active) .md-list-item__subheader,.md-list-item-header--space.focus:not(.active) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__header,.md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space:hover:not(:active) .md-list-item__header,.md-list-item-header--space:hover:not(.active) .md-list-item__header,.md-list-item-header--space:focus:not(.disabled) .md-list-item__header,.md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space:focus:not(:active) .md-list-item__header,.md-list-item-header--space:focus:not(.active) .md-list-item__header,.md-list-item-header--space.focus:not(.disabled) .md-list-item__header,.md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header--space.focus:not(:active) .md-list-item__header,.md-list-item-header--space.focus:not(.active) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header--space .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header:disabled,.md-list-item-header.disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__subheader,.md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header:hover:not(:active) .md-list-item__subheader,.md-list-item-header:hover:not(.active) .md-list-item__subheader,.md-list-item-header:focus:not(.disabled) .md-list-item__subheader,.md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header:focus:not(:active) .md-list-item__subheader,.md-list-item-header:focus:not(.active) .md-list-item__subheader,.md-list-item-header.focus:not(.disabled) .md-list-item__subheader,.md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item-header.focus:not(:active) .md-list-item__subheader,.md-list-item-header.focus:not(.active) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__header,.md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header:hover:not(:active) .md-list-item__header,.md-list-item-header:hover:not(.active) .md-list-item__header,.md-list-item-header:focus:not(.disabled) .md-list-item__header,.md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header:focus:not(:active) .md-list-item__header,.md-list-item-header:focus:not(.active) .md-list-item__header,.md-list-item-header.focus:not(.disabled) .md-list-item__header,.md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item-header.focus:not(:active) .md-list-item__header,.md-list-item-header.focus:not(.active) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header>[class$=\"__right\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item-header>[class$=\"__left\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item.md-list-item--multiselect.active md-icon",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item.md-list-item--multiselect.active",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item.md-list-item--multiselect:active",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item.md-list-item--multiselect",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item[tabindex=\"0\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--small>[class$=\"__right\"],.md-list-item--36>[class$=\"__right\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--small>[class$=\"__left\"],.md-list-item--36>[class$=\"__left\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--xlarge>[class$=\"__right\"],.md-list-item--60>[class$=\"__right\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--xlarge>[class$=\"__left\"],.md-list-item--60>[class$=\"__left\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large:disabled,.md-list-item--large.disabled,.md-list-item--52:disabled,.md-list-item--52.disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__subheader,.md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--large:hover:not(:active) .md-list-item__subheader,.md-list-item--large:hover:not(.active) .md-list-item__subheader,.md-list-item--large:focus:not(.disabled) .md-list-item__subheader,.md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--large:focus:not(:active) .md-list-item__subheader,.md-list-item--large:focus:not(.active) .md-list-item__subheader,.md-list-item--large.focus:not(.disabled) .md-list-item__subheader,.md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--large.focus:not(:active) .md-list-item__subheader,.md-list-item--large.focus:not(.active) .md-list-item__subheader,.md-list-item--52:hover:not(.disabled) .md-list-item__subheader,.md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--52:hover:not(:active) .md-list-item__subheader,.md-list-item--52:hover:not(.active) .md-list-item__subheader,.md-list-item--52:focus:not(.disabled) .md-list-item__subheader,.md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--52:focus:not(:active) .md-list-item__subheader,.md-list-item--52:focus:not(.active) .md-list-item__subheader,.md-list-item--52.focus:not(.disabled) .md-list-item__subheader,.md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item--52.focus:not(:active) .md-list-item__subheader,.md-list-item--52.focus:not(.active) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__header,.md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--large:hover:not(:active) .md-list-item__header,.md-list-item--large:hover:not(.active) .md-list-item__header,.md-list-item--large:focus:not(.disabled) .md-list-item__header,.md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--large:focus:not(:active) .md-list-item__header,.md-list-item--large:focus:not(.active) .md-list-item__header,.md-list-item--large.focus:not(.disabled) .md-list-item__header,.md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--large.focus:not(:active) .md-list-item__header,.md-list-item--large.focus:not(.active) .md-list-item__header,.md-list-item--52:hover:not(.disabled) .md-list-item__header,.md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--52:hover:not(:active) .md-list-item__header,.md-list-item--52:hover:not(.active) .md-list-item__header,.md-list-item--52:focus:not(.disabled) .md-list-item__header,.md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--52:focus:not(:active) .md-list-item__header,.md-list-item--52:focus:not(.active) .md-list-item__header,.md-list-item--52.focus:not(.disabled) .md-list-item__header,.md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item--52.focus:not(:active) .md-list-item__header,.md-list-item--52.focus:not(.active) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large .md-list-item__subheader,.md-list-item--52 .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large .md-list-item__header,.md-list-item--52 .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large>[class$=\"__right\"],.md-list-item--52>[class$=\"__right\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item--large>[class$=\"__left\"],.md-list-item--52>[class$=\"__left\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:focus",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:disabled,.md-list-item.disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item.active:not(.md-list-item--read-only) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__header,.md-list-item.active:not(.md-list-item--read-only) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:hover:not(.disabled) .md-list-item__subheader,.md-list-item:hover:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item:hover:not(:active) .md-list-item__subheader,.md-list-item:hover:not(.active) .md-list-item__subheader,.md-list-item:focus:not(.disabled) .md-list-item__subheader,.md-list-item:focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item:focus:not(:active) .md-list-item__subheader,.md-list-item:focus:not(.active) .md-list-item__subheader,.md-list-item.focus:not(.disabled) .md-list-item__subheader,.md-list-item.focus:not(.md-list-item--read-only) .md-list-item__subheader,.md-list-item.focus:not(:active) .md-list-item__subheader,.md-list-item.focus:not(.active) .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:hover:not(.disabled) .md-list-item__header,.md-list-item:hover:not(.md-list-item--read-only) .md-list-item__header,.md-list-item:hover:not(:active) .md-list-item__header,.md-list-item:hover:not(.active) .md-list-item__header,.md-list-item:focus:not(.disabled) .md-list-item__header,.md-list-item:focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item:focus:not(:active) .md-list-item__header,.md-list-item:focus:not(.active) .md-list-item__header,.md-list-item.focus:not(.disabled) .md-list-item__header,.md-list-item.focus:not(.md-list-item--read-only) .md-list-item__header,.md-list-item.focus:not(:active) .md-list-item__header,.md-list-item.focus:not(.active) .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item .md-list-item__subheader",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item .md-list-item__header",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item>[class$=\"__right\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item>[class$=\"__left\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item .md-input-container",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item:disabled,.md-list-item.disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-list-item.md-list-item--read-only",
+        "declarations": 1
+      }
+    ]
+  },
+  "selectors": {
+    "total": 437,
+    "type": 2,
+    "class": 433,
+    "id": 0,
+    "pseudoClass": 348,
+    "pseudoElement": 0,
+    "values": [
+      ":host(:focus)",
+      ":host(md-list-item)",
+      ":host(md-list-item:focus)",
+      ".md-list-item",
+      ".md-list-item>.md-list-item__center",
+      ".md-list-item>.md-list-item__center-align",
+      ".md-list-item>.md-list-item__left",
+      ".md-list-item>.md-list-item__right",
+      ".md-list-item .md-list-item__header",
+      ".md-list-item .md-list-item__subheader",
+      ".md-list-item.md-list-item--read-only",
+      ".md-list-item:disabled",
+      ".md-list-item.disabled",
+      ".md-list-item.md-list-item--separator",
+      ".md-list--horizontal>.md-list-item.md-list-item--separator",
+      ".md-list-item .md-input-container",
+      ".md-list-item>[class$=\"__left\"]",
+      ".md-list-item>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item>[class$=\"__right\"]",
+      ".md-list-item .md-list-item__header",
+      ".md-list-item .md-list-item__subheader",
+      ".md-list-item .md-list-item__left",
+      ".md-list-item .md-list-item__right",
+      ".md-list-item:hover:not(.disabled) .md-list-item__header",
+      ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item:hover:not(:active) .md-list-item__header",
+      ".md-list-item:hover:not(.active) .md-list-item__header",
+      ".md-list-item:focus:not(.disabled) .md-list-item__header",
+      ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item:focus:not(:active) .md-list-item__header",
+      ".md-list-item:focus:not(.active) .md-list-item__header",
+      ".md-list-item.focus:not(.disabled) .md-list-item__header",
+      ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item.focus:not(:active) .md-list-item__header",
+      ".md-list-item.focus:not(.active) .md-list-item__header",
+      ".md-list-item:hover:not(.disabled) .md-list-item__subheader",
+      ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item:hover:not(:active) .md-list-item__subheader",
+      ".md-list-item:hover:not(.active) .md-list-item__subheader",
+      ".md-list-item:focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item:focus:not(:active) .md-list-item__subheader",
+      ".md-list-item:focus:not(.active) .md-list-item__subheader",
+      ".md-list-item.focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item.focus:not(:active) .md-list-item__subheader",
+      ".md-list-item.focus:not(.active) .md-list-item__subheader",
+      ".md-list-item:hover:not(.disabled) .md-list-item__left",
+      ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item:hover:not(:active) .md-list-item__left",
+      ".md-list-item:hover:not(.active) .md-list-item__left",
+      ".md-list-item:focus:not(.disabled) .md-list-item__left",
+      ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item:focus:not(:active) .md-list-item__left",
+      ".md-list-item:focus:not(.active) .md-list-item__left",
+      ".md-list-item.focus:not(.disabled) .md-list-item__left",
+      ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item.focus:not(:active) .md-list-item__left",
+      ".md-list-item.focus:not(.active) .md-list-item__left",
+      ".md-list-item:hover:not(.disabled) .md-list-item__right",
+      ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item:hover:not(:active) .md-list-item__right",
+      ".md-list-item:hover:not(.active) .md-list-item__right",
+      ".md-list-item:focus:not(.disabled) .md-list-item__right",
+      ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item:focus:not(:active) .md-list-item__right",
+      ".md-list-item:focus:not(.active) .md-list-item__right",
+      ".md-list-item.focus:not(.disabled) .md-list-item__right",
+      ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item.focus:not(:active) .md-list-item__right",
+      ".md-list-item.focus:not(.active) .md-list-item__right",
+      ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item:disabled",
+      ".md-list-item.disabled",
+      ".md-list-item:focus",
+      ".md-list-item:hover",
+      ".md-list-item--large",
+      ".md-list-item--52",
+      ".md-list-item--large>[class$=\"__left\"]",
+      ".md-list-item--52>[class$=\"__left\"]",
+      ".md-list-item--large>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item--52>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item--large>[class$=\"__right\"]",
+      ".md-list-item--52>[class$=\"__right\"]",
+      ".md-list-item--large .md-list-item__header",
+      ".md-list-item--52 .md-list-item__header",
+      ".md-list-item--large .md-list-item__subheader",
+      ".md-list-item--52 .md-list-item__subheader",
+      ".md-list-item--large .md-list-item__left",
+      ".md-list-item--52 .md-list-item__left",
+      ".md-list-item--large .md-list-item__right",
+      ".md-list-item--52 .md-list-item__right",
+      ".md-list-item--large:hover:not(.disabled) .md-list-item__header",
+      ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--large:hover:not(:active) .md-list-item__header",
+      ".md-list-item--large:hover:not(.active) .md-list-item__header",
+      ".md-list-item--large:focus:not(.disabled) .md-list-item__header",
+      ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--large:focus:not(:active) .md-list-item__header",
+      ".md-list-item--large:focus:not(.active) .md-list-item__header",
+      ".md-list-item--large.focus:not(.disabled) .md-list-item__header",
+      ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--large.focus:not(:active) .md-list-item__header",
+      ".md-list-item--large.focus:not(.active) .md-list-item__header",
+      ".md-list-item--52:hover:not(.disabled) .md-list-item__header",
+      ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--52:hover:not(:active) .md-list-item__header",
+      ".md-list-item--52:hover:not(.active) .md-list-item__header",
+      ".md-list-item--52:focus:not(.disabled) .md-list-item__header",
+      ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--52:focus:not(:active) .md-list-item__header",
+      ".md-list-item--52:focus:not(.active) .md-list-item__header",
+      ".md-list-item--52.focus:not(.disabled) .md-list-item__header",
+      ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--52.focus:not(:active) .md-list-item__header",
+      ".md-list-item--52.focus:not(.active) .md-list-item__header",
+      ".md-list-item--large:hover:not(.disabled) .md-list-item__subheader",
+      ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--large:hover:not(:active) .md-list-item__subheader",
+      ".md-list-item--large:hover:not(.active) .md-list-item__subheader",
+      ".md-list-item--large:focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--large:focus:not(:active) .md-list-item__subheader",
+      ".md-list-item--large:focus:not(.active) .md-list-item__subheader",
+      ".md-list-item--large.focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--large.focus:not(:active) .md-list-item__subheader",
+      ".md-list-item--large.focus:not(.active) .md-list-item__subheader",
+      ".md-list-item--52:hover:not(.disabled) .md-list-item__subheader",
+      ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--52:hover:not(:active) .md-list-item__subheader",
+      ".md-list-item--52:hover:not(.active) .md-list-item__subheader",
+      ".md-list-item--52:focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--52:focus:not(:active) .md-list-item__subheader",
+      ".md-list-item--52:focus:not(.active) .md-list-item__subheader",
+      ".md-list-item--52.focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--52.focus:not(:active) .md-list-item__subheader",
+      ".md-list-item--52.focus:not(.active) .md-list-item__subheader",
+      ".md-list-item--large:hover:not(.disabled) .md-list-item__left",
+      ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--large:hover:not(:active) .md-list-item__left",
+      ".md-list-item--large:hover:not(.active) .md-list-item__left",
+      ".md-list-item--large:focus:not(.disabled) .md-list-item__left",
+      ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--large:focus:not(:active) .md-list-item__left",
+      ".md-list-item--large:focus:not(.active) .md-list-item__left",
+      ".md-list-item--large.focus:not(.disabled) .md-list-item__left",
+      ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--large.focus:not(:active) .md-list-item__left",
+      ".md-list-item--large.focus:not(.active) .md-list-item__left",
+      ".md-list-item--52:hover:not(.disabled) .md-list-item__left",
+      ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--52:hover:not(:active) .md-list-item__left",
+      ".md-list-item--52:hover:not(.active) .md-list-item__left",
+      ".md-list-item--52:focus:not(.disabled) .md-list-item__left",
+      ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--52:focus:not(:active) .md-list-item__left",
+      ".md-list-item--52:focus:not(.active) .md-list-item__left",
+      ".md-list-item--52.focus:not(.disabled) .md-list-item__left",
+      ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--52.focus:not(:active) .md-list-item__left",
+      ".md-list-item--52.focus:not(.active) .md-list-item__left",
+      ".md-list-item--large:hover:not(.disabled) .md-list-item__right",
+      ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--large:hover:not(:active) .md-list-item__right",
+      ".md-list-item--large:hover:not(.active) .md-list-item__right",
+      ".md-list-item--large:focus:not(.disabled) .md-list-item__right",
+      ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--large:focus:not(:active) .md-list-item__right",
+      ".md-list-item--large:focus:not(.active) .md-list-item__right",
+      ".md-list-item--large.focus:not(.disabled) .md-list-item__right",
+      ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--large.focus:not(:active) .md-list-item__right",
+      ".md-list-item--large.focus:not(.active) .md-list-item__right",
+      ".md-list-item--52:hover:not(.disabled) .md-list-item__right",
+      ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--52:hover:not(:active) .md-list-item__right",
+      ".md-list-item--52:hover:not(.active) .md-list-item__right",
+      ".md-list-item--52:focus:not(.disabled) .md-list-item__right",
+      ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--52:focus:not(:active) .md-list-item__right",
+      ".md-list-item--52:focus:not(.active) .md-list-item__right",
+      ".md-list-item--52.focus:not(.disabled) .md-list-item__right",
+      ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--52.focus:not(:active) .md-list-item__right",
+      ".md-list-item--52.focus:not(.active) .md-list-item__right",
+      ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item--large:disabled",
+      ".md-list-item--large.disabled",
+      ".md-list-item--52:disabled",
+      ".md-list-item--52.disabled",
+      ".md-list-item--xlarge",
+      ".md-list-item--60",
+      ".md-list-item--xlarge>[class$=\"__left\"]",
+      ".md-list-item--60>[class$=\"__left\"]",
+      ".md-list-item--xlarge>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item--60>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item--xlarge>[class$=\"__right\"]",
+      ".md-list-item--60>[class$=\"__right\"]",
+      ".md-list-item--small",
+      ".md-list-item--36",
+      ".md-list-item--small>[class$=\"__left\"]",
+      ".md-list-item--36>[class$=\"__left\"]",
+      ".md-list-item--small>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item--36>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item--small>[class$=\"__right\"]",
+      ".md-list-item--36>[class$=\"__right\"]",
+      ".md-list-item.md-list-item--auto",
+      ".md-list-item[tabindex=\"0\"]",
+      ".md-list-item.md-list-item--multiselect",
+      ".md-list-item.md-list-item--multiselect md-icon",
+      ".md-list-item.md-list-item--multiselect:active",
+      ".md-list-item.md-list-item--multiselect.active",
+      ".md-list-item.md-list-item--multiselect.active md-icon",
+      ".md-list-item-header",
+      ".md-list-item-header>[class$=\"__left\"]",
+      ".md-list-item-header>[class$=\"__left\"]>.md-list-item__avatar",
+      ".md-list-item-header>[class$=\"__right\"]",
+      ".md-list-item-header .md-list-item__header",
+      ".md-list-item-header .md-list-item__subheader",
+      ".md-list-item-header .md-list-item__left",
+      ".md-list-item-header .md-list-item__right",
+      ".md-list-item-header:hover:not(.disabled) .md-list-item__header",
+      ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header:hover:not(:active) .md-list-item__header",
+      ".md-list-item-header:hover:not(.active) .md-list-item__header",
+      ".md-list-item-header:focus:not(.disabled) .md-list-item__header",
+      ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header:focus:not(:active) .md-list-item__header",
+      ".md-list-item-header:focus:not(.active) .md-list-item__header",
+      ".md-list-item-header.focus:not(.disabled) .md-list-item__header",
+      ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header.focus:not(:active) .md-list-item__header",
+      ".md-list-item-header.focus:not(.active) .md-list-item__header",
+      ".md-list-item-header:hover:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header:hover:not(:active) .md-list-item__subheader",
+      ".md-list-item-header:hover:not(.active) .md-list-item__subheader",
+      ".md-list-item-header:focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header:focus:not(:active) .md-list-item__subheader",
+      ".md-list-item-header:focus:not(.active) .md-list-item__subheader",
+      ".md-list-item-header.focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header.focus:not(:active) .md-list-item__subheader",
+      ".md-list-item-header.focus:not(.active) .md-list-item__subheader",
+      ".md-list-item-header:hover:not(.disabled) .md-list-item__left",
+      ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header:hover:not(:active) .md-list-item__left",
+      ".md-list-item-header:hover:not(.active) .md-list-item__left",
+      ".md-list-item-header:focus:not(.disabled) .md-list-item__left",
+      ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header:focus:not(:active) .md-list-item__left",
+      ".md-list-item-header:focus:not(.active) .md-list-item__left",
+      ".md-list-item-header.focus:not(.disabled) .md-list-item__left",
+      ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header.focus:not(:active) .md-list-item__left",
+      ".md-list-item-header.focus:not(.active) .md-list-item__left",
+      ".md-list-item-header:hover:not(.disabled) .md-list-item__right",
+      ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header:hover:not(:active) .md-list-item__right",
+      ".md-list-item-header:hover:not(.active) .md-list-item__right",
+      ".md-list-item-header:focus:not(.disabled) .md-list-item__right",
+      ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header:focus:not(:active) .md-list-item__right",
+      ".md-list-item-header:focus:not(.active) .md-list-item__right",
+      ".md-list-item-header.focus:not(.disabled) .md-list-item__right",
+      ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header.focus:not(:active) .md-list-item__right",
+      ".md-list-item-header.focus:not(.active) .md-list-item__right",
+      ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header:disabled",
+      ".md-list-item-header.disabled",
+      ".md-list-item-header--space",
+      ".md-list-item-header--space .md-list-item__header",
+      ".md-list-item-header--space .md-list-item__subheader",
+      ".md-list-item-header--space .md-list-item__left",
+      ".md-list-item-header--space .md-list-item__right",
+      ".md-list-item-header--space:hover:not(.disabled) .md-list-item__header",
+      ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space:hover:not(:active) .md-list-item__header",
+      ".md-list-item-header--space:hover:not(.active) .md-list-item__header",
+      ".md-list-item-header--space:focus:not(.disabled) .md-list-item__header",
+      ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space:focus:not(:active) .md-list-item__header",
+      ".md-list-item-header--space:focus:not(.active) .md-list-item__header",
+      ".md-list-item-header--space.focus:not(.disabled) .md-list-item__header",
+      ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space.focus:not(:active) .md-list-item__header",
+      ".md-list-item-header--space.focus:not(.active) .md-list-item__header",
+      ".md-list-item-header--space:hover:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space:hover:not(:active) .md-list-item__subheader",
+      ".md-list-item-header--space:hover:not(.active) .md-list-item__subheader",
+      ".md-list-item-header--space:focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space:focus:not(:active) .md-list-item__subheader",
+      ".md-list-item-header--space:focus:not(.active) .md-list-item__subheader",
+      ".md-list-item-header--space.focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space.focus:not(:active) .md-list-item__subheader",
+      ".md-list-item-header--space.focus:not(.active) .md-list-item__subheader",
+      ".md-list-item-header--space:hover:not(.disabled) .md-list-item__left",
+      ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space:hover:not(:active) .md-list-item__left",
+      ".md-list-item-header--space:hover:not(.active) .md-list-item__left",
+      ".md-list-item-header--space:focus:not(.disabled) .md-list-item__left",
+      ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space:focus:not(:active) .md-list-item__left",
+      ".md-list-item-header--space:focus:not(.active) .md-list-item__left",
+      ".md-list-item-header--space.focus:not(.disabled) .md-list-item__left",
+      ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space.focus:not(:active) .md-list-item__left",
+      ".md-list-item-header--space.focus:not(.active) .md-list-item__left",
+      ".md-list-item-header--space:hover:not(.disabled) .md-list-item__right",
+      ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space:hover:not(:active) .md-list-item__right",
+      ".md-list-item-header--space:hover:not(.active) .md-list-item__right",
+      ".md-list-item-header--space:focus:not(.disabled) .md-list-item__right",
+      ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space:focus:not(:active) .md-list-item__right",
+      ".md-list-item-header--space:focus:not(.active) .md-list-item__right",
+      ".md-list-item-header--space.focus:not(.disabled) .md-list-item__right",
+      ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space.focus:not(:active) .md-list-item__right",
+      ".md-list-item-header--space.focus:not(.active) .md-list-item__right",
+      ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space:disabled",
+      ".md-list-item-header--space.disabled",
+      ".md-list-item-header--space-light",
+      ".md-list-item-header--space-light .md-list-item__header",
+      ".md-list-item-header--space-light .md-list-item__subheader",
+      ".md-list-item-header--space-light .md-list-item__left",
+      ".md-list-item-header--space-light .md-list-item__right",
+      ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__header",
+      ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space-light:hover:not(:active) .md-list-item__header",
+      ".md-list-item-header--space-light:hover:not(.active) .md-list-item__header",
+      ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__header",
+      ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space-light:focus:not(:active) .md-list-item__header",
+      ".md-list-item-header--space-light:focus:not(.active) .md-list-item__header",
+      ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__header",
+      ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space-light.focus:not(:active) .md-list-item__header",
+      ".md-list-item-header--space-light.focus:not(.active) .md-list-item__header",
+      ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space-light:hover:not(:active) .md-list-item__subheader",
+      ".md-list-item-header--space-light:hover:not(.active) .md-list-item__subheader",
+      ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space-light:focus:not(:active) .md-list-item__subheader",
+      ".md-list-item-header--space-light:focus:not(.active) .md-list-item__subheader",
+      ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__subheader",
+      ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space-light.focus:not(:active) .md-list-item__subheader",
+      ".md-list-item-header--space-light.focus:not(.active) .md-list-item__subheader",
+      ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__left",
+      ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space-light:hover:not(:active) .md-list-item__left",
+      ".md-list-item-header--space-light:hover:not(.active) .md-list-item__left",
+      ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__left",
+      ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space-light:focus:not(:active) .md-list-item__left",
+      ".md-list-item-header--space-light:focus:not(.active) .md-list-item__left",
+      ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__left",
+      ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space-light.focus:not(:active) .md-list-item__left",
+      ".md-list-item-header--space-light.focus:not(.active) .md-list-item__left",
+      ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__right",
+      ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space-light:hover:not(:active) .md-list-item__right",
+      ".md-list-item-header--space-light:hover:not(.active) .md-list-item__right",
+      ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__right",
+      ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space-light:focus:not(:active) .md-list-item__right",
+      ".md-list-item-header--space-light:focus:not(.active) .md-list-item__right",
+      ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__right",
+      ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space-light.focus:not(:active) .md-list-item__right",
+      ".md-list-item-header--space-light.focus:not(.active) .md-list-item__right",
+      ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__header",
+      ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__subheader",
+      ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__left",
+      ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__right",
+      ".md-list-item-header--space-light:disabled",
+      ".md-list-item-header--space-light.disabled",
+      ".md-list--vertical",
+      ".md-list--vertical .md-list-item",
+      ".md-list--horizontal",
+      ".md-list--horizontal .md-list-item",
+      ".md-list--wrap",
+      ".text__highlight",
+      ":host"
+    ],
+    "specificity": {
+      "max": 40,
+      "average": 35.244851258581235,
+      "graph": [
+        10,
+        10,
+        10,
+        10,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        30,
+        20,
+        20,
+        30,
+        20,
+        20,
+        20,
+        20,
+        20,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        20,
+        20,
+        20,
+        20,
+        10,
+        10,
+        20,
+        20,
+        30,
+        30,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        20,
+        20,
+        20,
+        20,
+        10,
+        10,
+        20,
+        20,
+        30,
+        30,
+        20,
+        20,
+        10,
+        10,
+        20,
+        20,
+        30,
+        30,
+        20,
+        20,
+        20,
+        20,
+        20,
+        21,
+        30,
+        30,
+        31,
+        10,
+        20,
+        30,
+        20,
+        20,
+        20,
+        20,
+        20,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        20,
+        20,
+        10,
+        20,
+        20,
+        20,
+        20,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        20,
+        20,
+        10,
+        20,
+        20,
+        20,
+        20,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        20,
+        20,
+        10,
+        20,
+        10,
+        20,
+        10,
+        10,
+        10
+      ],
+      "sortedGraph": [
+        {
+          "selector": ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:hover:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:hover:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52.active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large:active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--large.active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item--52:active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item:hover:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:hover:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header:active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header.active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:hover:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space:active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space.active:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(:active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.active) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(:active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.active) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(:active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.active) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:hover:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.disabled) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.md-list-item--read-only) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(:active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.focus:not(.active) .md-list-item__right",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__header",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light:active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__subheader",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item-header--space-light.active:not(.md-list-item--read-only) .md-list-item__left",
+          "specificity": 40
+        },
+        {
+          "selector": ".md-list-item.md-list-item--multiselect.active md-icon",
+          "specificity": 31
+        },
+        {
+          "selector": ".md-list-item--52>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item--xlarge>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item--60>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list--horizontal>.md-list-item.md-list-item--separator",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item--36>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item--small>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item.md-list-item--multiselect:active",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item.md-list-item--multiselect.active",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item-header>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item--large>[class$=\"__left\"]>.md-list-item__avatar",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-list-item.md-list-item--multiselect md-icon",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-list-item--52.disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header:disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header.disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space .md-list-item__header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space:disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space.disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space-light .md-list-item__header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space-light .md-list-item__subheader",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space-light .md-list-item__left",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space-light .md-list-item__right",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space .md-list-item__subheader",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space .md-list-item__left",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space .md-list-item__right",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large .md-list-item__header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--52 .md-list-item__header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large .md-list-item__subheader",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--52 .md-list-item__subheader",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large .md-list-item__left",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--52 .md-list-item__left",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large .md-list-item__right",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--52 .md-list-item__right",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item.md-list-item--separator",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--60>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item .md-input-container",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item>.md-list-item__center-align",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item .md-list-item__header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item .md-list-item__subheader",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item .md-list-item__left",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item .md-list-item__right",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item>.md-list-item__left",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item>.md-list-item__right",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item .md-list-item__header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large:disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large.disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--52:disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item>.md-list-item__center",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--xlarge>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item .md-list-item__subheader",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item.md-list-item--read-only",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--xlarge>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--60>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--small>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--36>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item:disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item.disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--small>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--36>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item.md-list-item--auto",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item[tabindex=\"0\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item.md-list-item--multiselect",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item:focus",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--52>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header>[class$=\"__left\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item:disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header .md-list-item__header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header .md-list-item__subheader",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header .md-list-item__left",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header .md-list-item__right",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item.disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--large>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item--52>[class$=\"__right\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space-light:disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space-light.disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list--vertical .md-list-item",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list--horizontal .md-list-item",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-list-item-header--space-light",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item",
+          "specificity": 10
+        },
+        {
+          "selector": ":host(:focus)",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item--large",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item--52",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item--small",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item--36",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item--xlarge",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item--60",
+          "specificity": 10
+        },
+        {
+          "selector": ":host(md-list-item:focus)",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item-header--space",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list--vertical",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list-item-header",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list--horizontal",
+          "specificity": 10
+        },
+        {
+          "selector": ":host(md-list-item)",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-list--wrap",
+          "specificity": 10
+        },
+        {
+          "selector": ".text__highlight",
+          "specificity": 10
+        },
+        {
+          "selector": ":host",
+          "specificity": 10
+        }
+      ]
+    },
+    "repeated": [
+      ".md-list-item .md-list-item__header",
+      ".md-list-item .md-list-item__subheader",
+      ".md-list-item.disabled",
+      ".md-list-item:disabled"
+    ]
+  },
+  "declarations": {
+    "total": 261,
+    "unique": 88,
+    "properties": {
+      "box-shadow": [
+        "none",
+        "none"
+      ],
+      "outline": [
+        "none",
+        "none"
+      ],
+      "border": [
+        "2px solid transparent"
+      ],
+      "border-radius": [
+        ".5rem"
+      ],
+      "display": [
+        "list-item",
+        "flex",
+        "flex",
+        "flex",
+        "flex",
+        "flex",
+        "flex",
+        "flex",
+        "flex"
+      ],
+      "border-color": [
+        "var(--md-default-focus-outline-color)"
+      ],
+      "align-content": [
+        "center",
+        "center",
+        "center",
+        "center",
+        "center",
+        "center",
+        "center",
+        "center",
+        "flex-start"
+      ],
+      "align-items": [
+        "center",
+        "flex-start",
+        "center",
+        "center",
+        "center",
+        "center",
+        "center",
+        "center"
+      ],
+      "flex-flow": [
+        "row nowrap",
+        "column nowrap",
+        "column nowrap",
+        "row nowrap",
+        "row nowrap",
+        "column nowrap",
+        "row nowrap",
+        "row nowrap"
+      ],
+      "justify-content": [
+        "flex-start",
+        "center",
+        "center",
+        "center",
+        "center",
+        "flex-start",
+        "center",
+        "center",
+        "flex-start"
+      ],
+      "cursor": [
+        "pointer",
+        "default",
+        "default"
+      ],
+      "flex": [
+        "1 1 auto",
+        "1 1 auto",
+        "1 0 auto",
+        "1 0 auto",
+        "0 0 auto"
+      ],
+      "font-size": [
+        "1rem",
+        ".75rem",
+        ".6125rem",
+        ".6125rem",
+        ".6125rem",
+        ".6125rem",
+        ".875rem",
+        ".6125rem"
+      ],
+      "line-height": [
+        "1.5rem",
+        "1.125rem",
+        ".875rem",
+        ".875rem",
+        ".875rem",
+        ".875rem",
+        ".875rem"
+      ],
+      "position": [
+        "relative"
+      ],
+      "white-space": [
+        "nowrap",
+        "nowrap"
+      ],
+      "width": [
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "100%",
+        "1.75rem",
+        "1.75rem",
+        "1.75rem",
+        "1.75rem",
+        "1.75rem",
+        "100%",
+        "auto"
+      ],
+      "height": [
+        "2.75rem",
+        "100%",
+        "100%",
+        "100%",
+        "1.75rem",
+        "3.25rem",
+        "1.75rem",
+        "3.75rem",
+        "1.75rem",
+        "2.25rem",
+        "1.75rem",
+        "auto",
+        "2.375rem",
+        "1.75rem",
+        "auto",
+        "100%"
+      ],
+      "padding": [
+        "0 1rem",
+        "0 1rem",
+        "0 1rem",
+        ".5rem .625rem",
+        "0",
+        "0 0.5rem",
+        "0 .875rem"
+      ],
+      "background-color": [
+        "rgba(0,0,0,0)",
+        "var(--combobox-dropdown-item-focus-bg-color, #91ebff)",
+        "var(--combobox-dropdown-item-hover-bg-color, #c9f4ff)",
+        "rgba(0,0,0,0)",
+        "var(--combobox-dropdown-item-focus-bg-color, #91ebff)",
+        "#c9f4ff",
+        "#fff",
+        "rgba(0,0,0,0)",
+        "rgba(0,0,0,0)",
+        "#f7f7f7"
+      ],
+      "color": [
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "rgba(0,0,0,0.6)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "rgba(0,0,0,0.6)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "rgba(0,0,0,0.8)",
+        "rgba(0,0,0,0.6)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "rgba(255,255,255,0.8)",
+        "rgba(0,0,0,0.6)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "#545454",
+        "#545454",
+        "#545454",
+        "#545454",
+        "#545454",
+        "#121212",
+        "#121212",
+        "#545454",
+        "#545454",
+        "#121212",
+        "#121212",
+        "#121212",
+        "#121212",
+        "var(--md-primary-text-color, #121212)"
+      ],
+      "margin-left": [
+        "0",
+        "0",
+        "0",
+        "1rem",
+        "1.125rem",
+        "1.125rem",
+        ".625rem",
+        "1rem"
+      ],
+      "margin-right": [
+        "0",
+        "0",
+        "0",
+        "1rem",
+        "1.125rem",
+        "1.125rem",
+        ".625rem",
+        "1rem"
+      ],
+      "order": [
+        "1",
+        "0",
+        "2"
+      ],
+      "overflow": [
+        "hidden",
+        "hidden",
+        "hidden",
+        "hidden"
+      ],
+      "text-overflow": [
+        "ellipsis",
+        "ellipsis"
+      ],
+      "pointer-events": [
+        "none"
+      ],
+      "border-bottom": [
+        ".0625rem solid rgba(0,0,0,0.08)",
+        "none"
+      ],
+      "border-right": [
+        "none",
+        ".0625rem solid rgba(0,0,0,0.08)"
+      ],
+      "margin-bottom": [
+        "0"
+      ],
+      "fill": [
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-primary-text-color, #121212)",
+        "#545454",
+        "#545454",
+        "#545454",
+        "#545454",
+        "#121212",
+        "#121212"
+      ],
+      "opacity": [
+        ".2",
+        ".2",
+        ".2",
+        ".2",
+        ".2"
+      ],
+      "padding-right": [
+        "0.5rem"
+      ],
+      "padding-top": [
+        "5px"
+      ],
+      "visibility": [
+        "hidden",
+        "visible"
+      ],
+      "margin": [
+        ".5rem 0 0 0"
+      ],
+      "flex-wrap": [
+        "wrap"
+      ],
+      "font-weight": [
+        "bold"
+      ],
+      "list-style": [
+        "none"
+      ]
+    },
+    "resets": {
+      "padding": 1,
+      "margin-left": 3,
+      "margin-right": 3,
+      "margin-bottom": 1
+    }
+  },
+  "mediaQueries": {
+    "total": 0,
+    "unique": 0,
+    "values": [],
+    "contents": []
+  }
+}

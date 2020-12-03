@@ -1,0 +1,751 @@
+{
+  "size": 5647,
+  "gzipSize": 1077,
+  "humanizedSize": "6KB",
+  "humanizedGzipSize": "1KB",
+  "rules": {
+    "total": 46,
+    "size": {
+      "graph": [
+        1,
+        21,
+        4,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        7,
+        1,
+        5,
+        1,
+        2,
+        21,
+        1,
+        1,
+        1,
+        1
+      ],
+      "max": 21,
+      "average": 2.8260869565217392
+    },
+    "selectorByRuleSizes": [
+      {
+        "selector": ".md-chip.md-chip--disabled",
+        "declarations": 21
+      },
+      {
+        "selector": ".md-chip",
+        "declarations": 21
+      },
+      {
+        "selector": ".md-chip .md-chip--clear",
+        "declarations": 7
+      },
+      {
+        "selector": ".md-chip .md-chip--loading",
+        "declarations": 5
+      },
+      {
+        "selector": ".md-chip--small",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-chip md-icon",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--cyan:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--cyan:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--cyan",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--violet:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--violet:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--violet",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--purple:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--purple:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--purple",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--orange:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--orange:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--orange",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--red:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--red:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--red",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--yellow:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--yellow:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--yellow",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--green:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--green:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--green",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--darkmint:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--darkmint:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--darkmint",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--mint:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--mint:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--mint",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--blue:active",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--blue:hover",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-chip--blue",
+        "declarations": 2
+      },
+      {
+        "selector": "::slotted([slot=\"custom-right-content\"])",
+        "declarations": 1
+      },
+      {
+        "selector": "::slotted([slot=\"custom-left-content\"])",
+        "declarations": 1
+      },
+      {
+        "selector": "::slotted(*)",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-chip.md-chip--disabled md-icon",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-chip .md-chip--textcontent",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-chip .md-chip--clear::before",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-chip:active,.md-chip[aria-selected=\"true\"]",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-chip:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-chip:focus",
+        "declarations": 1
+      },
+      {
+        "selector": ":focus",
+        "declarations": 1
+      }
+    ]
+  },
+  "selectors": {
+    "total": 47,
+    "type": 2,
+    "class": 43,
+    "id": 0,
+    "pseudoClass": 24,
+    "pseudoElement": 1,
+    "values": [
+      ":focus",
+      ".md-chip",
+      ".md-chip--small",
+      ".md-chip:focus",
+      ".md-chip:hover",
+      ".md-chip:active",
+      ".md-chip[aria-selected=\"true\"]",
+      ".md-chip--blue",
+      ".md-chip--blue:hover",
+      ".md-chip--blue:active",
+      ".md-chip--mint",
+      ".md-chip--mint:hover",
+      ".md-chip--mint:active",
+      ".md-chip--darkmint",
+      ".md-chip--darkmint:hover",
+      ".md-chip--darkmint:active",
+      ".md-chip--green",
+      ".md-chip--green:hover",
+      ".md-chip--green:active",
+      ".md-chip--yellow",
+      ".md-chip--yellow:hover",
+      ".md-chip--yellow:active",
+      ".md-chip--red",
+      ".md-chip--red:hover",
+      ".md-chip--red:active",
+      ".md-chip--orange",
+      ".md-chip--orange:hover",
+      ".md-chip--orange:active",
+      ".md-chip--purple",
+      ".md-chip--purple:hover",
+      ".md-chip--purple:active",
+      ".md-chip--violet",
+      ".md-chip--violet:hover",
+      ".md-chip--violet:active",
+      ".md-chip--cyan",
+      ".md-chip--cyan:hover",
+      ".md-chip--cyan:active",
+      ".md-chip .md-chip--clear",
+      ".md-chip .md-chip--clear::before",
+      ".md-chip .md-chip--loading",
+      ".md-chip .md-chip--textcontent",
+      ".md-chip md-icon",
+      ".md-chip.md-chip--disabled",
+      ".md-chip.md-chip--disabled md-icon",
+      "::slotted(*)",
+      "::slotted([slot=\"custom-left-content\"])",
+      "::slotted([slot=\"custom-right-content\"])"
+    ],
+    "specificity": {
+      "max": 21,
+      "average": 16.340425531914892,
+      "graph": [
+        10,
+        10,
+        10,
+        20,
+        20,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        10,
+        20,
+        20,
+        20,
+        21,
+        20,
+        20,
+        11,
+        20,
+        21,
+        1,
+        12,
+        12
+      ],
+      "sortedGraph": [
+        {
+          "selector": ".md-chip.md-chip--disabled md-icon",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-chip .md-chip--clear::before",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-chip--green:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip[aria-selected=\"true\"]",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--red:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--blue:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--blue:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip.md-chip--disabled",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--mint:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--mint:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip .md-chip--textcontent",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--darkmint:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--darkmint:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip .md-chip--loading",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip:focus",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--green:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--yellow:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--yellow:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip .md-chip--clear",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--cyan:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--red:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--cyan:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--orange:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--orange:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--violet:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--purple:hover",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--purple:active",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-chip--violet:hover",
+          "specificity": 20
+        },
+        {
+          "selector": "::slotted([slot=\"custom-left-content\"])",
+          "specificity": 12
+        },
+        {
+          "selector": "::slotted([slot=\"custom-right-content\"])",
+          "specificity": 12
+        },
+        {
+          "selector": ".md-chip md-icon",
+          "specificity": 11
+        },
+        {
+          "selector": ".md-chip--green",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--cyan",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--orange",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--red",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--yellow",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--purple",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--darkmint",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--violet",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--mint",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--blue",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-chip--small",
+          "specificity": 10
+        },
+        {
+          "selector": ":focus",
+          "specificity": 10
+        },
+        {
+          "selector": "::slotted(*)",
+          "specificity": 1
+        }
+      ]
+    },
+    "repeated": []
+  },
+  "declarations": {
+    "total": 130,
+    "unique": 67,
+    "properties": {
+      "outline": [
+        "none"
+      ],
+      "border-radius": [
+        "1.125rem",
+        "1.125rem"
+      ],
+      "align-items": [
+        "center",
+        "center"
+      ],
+      "background-color": [
+        "var(--md-secondary-bg-color, #F7F7F7)",
+        "var(--md-tertiary-bg-color, #EDEDED)",
+        "var(--md-quaternary-bg-color, #DEDEDE)",
+        "var(--badge-blue-bg-color, #C7EEFF)",
+        "var(--badge-blue-bg-color, #C7EEFF)",
+        "var(--badge-blue-bg-color, #C7EEFF)",
+        "var(--badge-mint-bg-color, #BAF5E7)",
+        "var(--badge-mint-bg-color, #BAF5E7)",
+        "var(--badge-mint-bg-color, #BAF5E7)",
+        "var(--badge-darkmint-bg-color, #16A693)",
+        "var(--badge-darkmint-bg-color, #16A693)",
+        "var(--badge-darkmint-bg-color, #16A693)",
+        "var(--badge-green-bg-color, #78F5B8)",
+        "var(--badge-green-bg-color, #78F5B8)",
+        "var(--badge-green-bg-color, #78F5B8)",
+        "var(--badge-yellow-bg-color, #FFD98C)",
+        "var(--badge-yellow-bg-color, #FFD98C)",
+        "var(--badge-yellow-bg-color, #FFD98C)",
+        "var(--badge-red-bg-color, #FFD5CC)",
+        "var(--badge-red-bg-color, #FFD5CC)",
+        "var(--badge-red-bg-color, #FFD5CC)",
+        "var(--badge-orange-bg-color, #FCE4C7)",
+        "var(--badge-orange-bg-color, #FCE4C7)",
+        "var(--badge-orange-bg-color, #FCE4C7)",
+        "var(--badge-purple-bg-color, #FCE1FC)",
+        "var(--badge-purple-bg-color, #FCE1FC)",
+        "var(--badge-purple-bg-color, #FCE1FC)",
+        "var(--badge-violet-bg-color, #F0E3FC)",
+        "var(--badge-violet-bg-color, #F0E3FC)",
+        "var(--badge-violet-bg-color, #F0E3FC)",
+        "var(--badge-cyan-bg-color, #B2F4F7)",
+        "var(--badge-cyan-bg-color, #B2F4F7)",
+        "var(--badge-cyan-bg-color, #B2F4F7)",
+        "var(--md-secondary-bg-color, #F7F7F7)"
+      ],
+      "color": [
+        "var(--md-primary-text-color, #121212)",
+        "var(--badge-blue-text-color, #08599C)",
+        "var(--badge-blue-text-color, #08599C)",
+        "var(--badge-blue-text-color, #08599C)",
+        "var(--badge-mint-text-color, #12615A)",
+        "var(--badge-mint-text-color, #12615A)",
+        "var(--badge-mint-text-color, #12615A)",
+        "var(--badge-darkmint-text-color, #F7F7F7)",
+        "var(--badge-darkmint-text-color, #F7F7F7)",
+        "var(--badge-darkmint-text-color, #F7F7F7)",
+        "var(--badge-green-text-color, #03612C)",
+        "var(--badge-green-text-color, #03612C)",
+        "var(--badge-green-text-color, #03612C)",
+        "var(--badge-yellow-text-color, #7D4705)",
+        "var(--badge-yellow-text-color, #7D4705)",
+        "var(--badge-yellow-text-color, #7D4705)",
+        "var(--badge-red-text-color, #A12512)",
+        "var(--badge-red-text-color, #A12512)",
+        "var(--badge-red-text-color, #A12512)",
+        "var(--badge-orange-text-color, #914017)",
+        "var(--badge-orange-text-color, #914017)",
+        "var(--badge-orange-text-color, #914017)",
+        "var(--badge-purple-text-color, #932099)",
+        "var(--badge-purple-text-color, #932099)",
+        "var(--badge-purple-text-color, #932099)",
+        "var(--badge-violet-text-color, #643ABD)",
+        "var(--badge-violet-text-color, #643ABD)",
+        "var(--badge-violet-text-color, #643ABD)",
+        "var(--badge-cyan-text-color, #066070)",
+        "var(--badge-cyan-text-color, #066070)",
+        "var(--badge-cyan-text-color, #066070)",
+        "var(--md-primary-text-color, #121212)",
+        "var(--md-disabled-text-color, #B2B2B2)",
+        "var(--md-disabled-text-color, #B2B2B2)"
+      ],
+      "cursor": [
+        "pointer",
+        "pointer",
+        "default"
+      ],
+      "display": [
+        "inline-flex",
+        "flow-root",
+        "flex",
+        "inline-flex"
+      ],
+      "font-family": [
+        "\"CiscoSansTT Regular\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "\"CiscoSansTT Regular\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+      ],
+      "font-weight": [
+        "normal",
+        "normal"
+      ],
+      "height": [
+        "2rem",
+        "1.5rem",
+        ".875rem",
+        "2rem"
+      ],
+      "justify-content": [
+        "space-between",
+        "space-between"
+      ],
+      "line-height": [
+        "1rem",
+        "1rem",
+        "normal"
+      ],
+      "margin-bottom": [
+        "auto",
+        "auto"
+      ],
+      "max-width": [
+        "12.5rem",
+        "9.375rem",
+        "12.5rem"
+      ],
+      "overflow": [
+        "auto",
+        "hidden",
+        "auto"
+      ],
+      "position": [
+        "relative",
+        "absolute",
+        "relative"
+      ],
+      "text-align": [
+        "center",
+        "center"
+      ],
+      "text-decoration": [
+        "none",
+        "none"
+      ],
+      "white-space": [
+        "nowrap",
+        "nowrap"
+      ],
+      "width": [
+        "auto",
+        ".875rem",
+        "100%",
+        "auto"
+      ],
+      "padding": [
+        ".25rem 1rem",
+        ".1875rem .75rem"
+      ],
+      "font-size": [
+        ".75rem",
+        ".75rem",
+        ".875rem"
+      ],
+      "min-width": [
+        "auto"
+      ],
+      "box-shadow": [
+        "0 0 0 .0625rem var(--md-default-focus-outline-color, #005E7D)"
+      ],
+      "right": [
+        ".75rem"
+      ],
+      "top": [
+        ".75rem",
+        "-.125rem"
+      ],
+      "margin-left": [
+        ".625rem",
+        ".625rem"
+      ],
+      "margin-right": [
+        "0",
+        ".625rem",
+        ".625rem"
+      ],
+      "left": [
+        "0"
+      ]
+    },
+    "resets": {
+      "margin-right": 1
+    }
+  },
+  "mediaQueries": {
+    "total": 0,
+    "unique": 0,
+    "values": [],
+    "contents": []
+  }
+}

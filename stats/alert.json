@@ -1,0 +1,321 @@
+{
+  "size": 2053,
+  "gzipSize": 744,
+  "humanizedSize": "2KB",
+  "humanizedGzipSize": "744B",
+  "rules": {
+    "total": 11,
+    "size": {
+      "graph": [
+        2,
+        2,
+        18,
+        2,
+        7,
+        7,
+        10,
+        1,
+        1,
+        7,
+        3
+      ],
+      "max": 18,
+      "average": 5.454545454545454
+    },
+    "selectorByRuleSizes": [
+      {
+        "selector": ":host(md-alert) .md-alert",
+        "declarations": 18
+      },
+      {
+        "selector": ":host(md-alert) .md-alert__message",
+        "declarations": 10
+      },
+      {
+        "selector": ":host(md-alert) .md-alert__button md-button::part(button)",
+        "declarations": 7
+      },
+      {
+        "selector": ":host(md-alert) .md-alert__title",
+        "declarations": 7
+      },
+      {
+        "selector": ":host(md-alert) .md-alert__content",
+        "declarations": 7
+      },
+      {
+        "selector": ":host(md-alert) .md-alert.md-alert__inline",
+        "declarations": 3
+      },
+      {
+        "selector": ":host(md-alert) .md-alert__icon md-icon::part(icon)",
+        "declarations": 2
+      },
+      {
+        "selector": ":host(md-alert)",
+        "declarations": 2
+      },
+      {
+        "selector": ":host",
+        "declarations": 2
+      },
+      {
+        "selector": ":host(md-alert) .md-alert__button",
+        "declarations": 1
+      },
+      {
+        "selector": ":host(md-alert) .md-alert__title,:host(md-alert) .md-alert__message",
+        "declarations": 1
+      }
+    ]
+  },
+  "selectors": {
+    "total": 12,
+    "type": 2,
+    "class": 10,
+    "id": 0,
+    "pseudoClass": 0,
+    "pseudoElement": 0,
+    "values": [
+      ":host",
+      ":host(md-alert)",
+      ":host(md-alert) .md-alert",
+      ":host(md-alert) .md-alert__icon md-icon::part(icon)",
+      ":host(md-alert) .md-alert__content",
+      ":host(md-alert) .md-alert__title",
+      ":host(md-alert) .md-alert__message",
+      ":host(md-alert) .md-alert__title",
+      ":host(md-alert) .md-alert__message",
+      ":host(md-alert) .md-alert__button",
+      ":host(md-alert) .md-alert__button md-button::part(button)",
+      ":host(md-alert) .md-alert.md-alert__inline"
+    ],
+    "specificity": {
+      "max": 30,
+      "average": 19.5,
+      "graph": [
+        10,
+        10,
+        20,
+        22,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        22,
+        30
+      ],
+      "sortedGraph": [
+        {
+          "selector": ":host(md-alert) .md-alert.md-alert__inline",
+          "specificity": 30
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__icon md-icon::part(icon)",
+          "specificity": 22
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__button md-button::part(button)",
+          "specificity": 22
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__message",
+          "specificity": 20
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__content",
+          "specificity": 20
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__title",
+          "specificity": 20
+        },
+        {
+          "selector": ":host(md-alert) .md-alert",
+          "specificity": 20
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__title",
+          "specificity": 20
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__message",
+          "specificity": 20
+        },
+        {
+          "selector": ":host(md-alert) .md-alert__button",
+          "specificity": 20
+        },
+        {
+          "selector": ":host(md-alert)",
+          "specificity": 10
+        },
+        {
+          "selector": ":host",
+          "specificity": 10
+        }
+      ]
+    },
+    "repeated": [
+      ":host(md-alert) .md-alert__message",
+      ":host(md-alert) .md-alert__title"
+    ]
+  },
+  "declarations": {
+    "total": 60,
+    "unique": 55,
+    "properties": {
+      "--alert-icon-size": [
+        "var(--alert-default-icon-size, $lm-alert-default-icon-size-light)"
+      ],
+      "--alert-close-btn": [
+        "var(--alert-close-bg-color, $lm-alert-close-bg-color-light)"
+      ],
+      "display": [
+        "flex",
+        "flex",
+        "flex",
+        "-webkit-box",
+        "inline-flex"
+      ],
+      "flex": [
+        "1 1 100%",
+        "1 1 100%"
+      ],
+      "align-content": [
+        "center"
+      ],
+      "align-items": [
+        "flex-start",
+        "center"
+      ],
+      "flex-flow": [
+        "row nowrap"
+      ],
+      "justify-content": [
+        "space-between",
+        "center"
+      ],
+      "border-top-left-radius": [
+        ".3125rem"
+      ],
+      "border-top-right-radius": [
+        ".3125rem"
+      ],
+      "border-bottom-left-radius": [
+        ".3125rem"
+      ],
+      "border-bottom-right-radius": [
+        ".3125rem"
+      ],
+      "background-color": [
+        "var(--alert-default-bg-color, #fff)",
+        "var(--alert-close-bg-color, #fff)"
+      ],
+      "border": [
+        "1px solid rgba(0,0,0,0.12)",
+        "0"
+      ],
+      "box-shadow": [
+        "0 8px 16px 0 rgba(0,0,0,0.08)",
+        "none"
+      ],
+      "margin-bottom": [
+        ".5rem",
+        "0"
+      ],
+      "max-height": [
+        "19.25rem"
+      ],
+      "max-width": [
+        "23rem",
+        "17rem"
+      ],
+      "min-height": [
+        "4.875rem"
+      ],
+      "padding": [
+        ".75rem"
+      ],
+      "font-size": [
+        "var(--alert-default-icon-size, 24px)",
+        "var(--alert-title-font-size, 1rem)",
+        ".875rem"
+      ],
+      "line-height": [
+        "var(--alert-default-icon-size, 24px)",
+        "1.5rem",
+        "1.35"
+      ],
+      "flex-basis": [
+        "0"
+      ],
+      "flex-direction": [
+        "column"
+      ],
+      "flex-grow": [
+        "2"
+      ],
+      "padding-left": [
+        ".75rem"
+      ],
+      "padding-right": [
+        ".125rem"
+      ],
+      "overflow": [
+        "hidden",
+        "hidden"
+      ],
+      "text-overflow": [
+        "ellipsis"
+      ],
+      "white-space": [
+        "nowrap"
+      ],
+      "color": [
+        "var(--alert-title-text-color, #121212)",
+        "var(--alert-default-text-color, #545454)"
+      ],
+      "width": [
+        "calc(100%)",
+        "calc(100%)",
+        "var(--alert-close-size, 1rem)"
+      ],
+      "-webkit-box-orient": [
+        "vertical"
+      ],
+      "-webkit-line-clamp": [
+        "2"
+      ],
+      "line-clamp": [
+        "2"
+      ],
+      "font-family": [
+        "\"CiscoSansTT Light\",\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+      ],
+      "word-wrap": [
+        "break-word"
+      ],
+      "margin-left": [
+        ".25rem"
+      ],
+      "border-radius": [
+        "50%"
+      ],
+      "height": [
+        "var(--alert-close-size, 1rem)"
+      ]
+    },
+    "resets": {
+      "margin-bottom": 1
+    }
+  },
+  "mediaQueries": {
+    "total": 0,
+    "unique": 0,
+    "values": [],
+    "contents": []
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "size": 1408,
+  "gzipSize": 597,
+  "humanizedSize": "1KB",
+  "humanizedGzipSize": "597B",
+  "rules": {
+    "total": 12,
+    "size": {
+      "graph": [
+        3,
+        1,
+        10,
+        4,
+        9,
+        1,
+        13,
+        1,
+        2,
+        2,
+        4,
+        2
+      ],
+      "max": 13,
+      "average": 4.333333333333333
+    },
+    "selectorByRuleSizes": [
+      {
+        "selector": ".md-combo__multiwrap",
+        "declarations": 13
+      },
+      {
+        "selector": ".md-combo-box__dropdown",
+        "declarations": 10
+      },
+      {
+        "selector": ".md-combo-box .md-input__selected",
+        "declarations": 9
+      },
+      {
+        "selector": ".md-combo__multiwrap .md-list-item-header",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-combo-box__options",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-combo-box",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-combo__multiwrap .md-list-item-header .md-list-item__header",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-combo__multiwrap .md-event-overlay__children",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-combo__multiwrap .md-combo__multiclear",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-combo__multiwrap md-input",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-combo-box .md-input__selected md-button",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-combo-box *",
+        "declarations": 1
+      }
+    ]
+  },
+  "selectors": {
+    "total": 12,
+    "type": 2,
+    "class": 12,
+    "id": 0,
+    "pseudoClass": 0,
+    "pseudoElement": 0,
+    "values": [
+      ".md-combo-box",
+      ".md-combo-box *",
+      ".md-combo-box__dropdown",
+      ".md-combo-box__options",
+      ".md-combo-box .md-input__selected",
+      ".md-combo-box .md-input__selected md-button",
+      ".md-combo__multiwrap",
+      ".md-combo__multiwrap md-input",
+      ".md-combo__multiwrap .md-combo__multiclear",
+      ".md-combo__multiwrap .md-event-overlay__children",
+      ".md-combo__multiwrap .md-list-item-header",
+      ".md-combo__multiwrap .md-list-item-header .md-list-item__header"
+    ],
+    "specificity": {
+      "max": 30,
+      "average": 16,
+      "graph": [
+        10,
+        10,
+        10,
+        10,
+        20,
+        21,
+        10,
+        11,
+        20,
+        20,
+        20,
+        30
+      ],
+      "sortedGraph": [
+        {
+          "selector": ".md-combo__multiwrap .md-list-item-header .md-list-item__header",
+          "specificity": 30
+        },
+        {
+          "selector": ".md-combo-box .md-input__selected md-button",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-combo-box .md-input__selected",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-combo__multiwrap .md-combo__multiclear",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-combo__multiwrap .md-event-overlay__children",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-combo__multiwrap .md-list-item-header",
+          "specificity": 20
+        },
+        {
+          "selector": ".md-combo__multiwrap md-input",
+          "specificity": 11
+        },
+        {
+          "selector": ".md-combo-box__options",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-combo-box",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-combo-box__dropdown",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-combo-box *",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-combo__multiwrap",
+          "specificity": 10
+        }
+      ]
+    },
+    "repeated": []
+  },
+  "declarations": {
+    "total": 52,
+    "unique": 43,
+    "properties": {
+      "box-sizing": [
+        "border-box",
+        "inherit",
+        "border-box"
+      ],
+      "color": [
+        "#121212",
+        "#121212",
+        "#545454"
+      ],
+      "position": [
+        "relative",
+        "absolute",
+        "relative"
+      ],
+      "background": [
+        "#fff",
+        "#e6e8e8"
+      ],
+      "border-radius": [
+        "4px",
+        "4px",
+        "4px"
+      ],
+      "box-shadow": [
+        "0 0 1px rgba(0,0,0,0.14),0 8px 16px rgba(0,0,0,0.16)"
+      ],
+      "display": [
+        "flex",
+        "flex",
+        "inline-block",
+        "flex"
+      ],
+      "flex-direction": [
+        "column",
+        "column"
+      ],
+      "overflow": [
+        "hidden",
+        "auto"
+      ],
+      "top": [
+        "110%"
+      ],
+      "width": [
+        "100%",
+        "100%"
+      ],
+      "z-index": [
+        "11"
+      ],
+      "overflow-y": [
+        "auto"
+      ],
+      "border": [
+        "1px solid #d2d5d6"
+      ],
+      "font-size": [
+        "12px"
+      ],
+      "line-height": [
+        "90%",
+        "1.375rem"
+      ],
+      "margin": [
+        "3px",
+        "0"
+      ],
+      "padding": [
+        "8px 12px",
+        "0 1rem"
+      ],
+      "padding-left": [
+        "10px"
+      ],
+      "background-color": [
+        "#fff"
+      ],
+      "border-color": [
+        "#ccc"
+      ],
+      "border-image": [
+        "initial"
+      ],
+      "border-style": [
+        "solid"
+      ],
+      "border-width": [
+        "0.0625rem"
+      ],
+      "flex-wrap": [
+        "wrap"
+      ],
+      "justify-content": [
+        "flex-start"
+      ],
+      "margin-bottom": [
+        "1rem"
+      ],
+      "transition": [
+        "box-shadow 0.15s ease-out 0s"
+      ],
+      "flex": [
+        "1 1 auto"
+      ],
+      "padding-right": [
+        "10px"
+      ],
+      "padding-top": [
+        "10px"
+      ],
+      "max-height": [
+        "19.25rem"
+      ],
+      "border-bottom": [
+        "1px solid rgba(0,0,0,0.08)"
+      ],
+      "height": [
+        "2.25rem"
+      ]
+    },
+    "resets": {
+      "margin": 1
+    }
+  },
+  "mediaQueries": {
+    "total": 0,
+    "unique": 0,
+    "values": [],
+    "contents": []
+  }
+}
